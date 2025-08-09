@@ -1,0 +1,15 @@
+{
+    "player": [
+        {
+            "damage_indicator": 0,
+            "name": "JOHN",
+            "position": 0,
+            "x": 1084.3747688518533,
+            "y": 381.2814752225588,
+            "cannon_x": 338,
+            "cannon_y": 692,
+            "angle": 65,
+            "angle_cannon": 140
+        }
+    ]
+}
